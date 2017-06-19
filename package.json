@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "author": "null--",
   "private": false,
-  "license": "Unlicense",
+  "license": "GPLv3",
   "repository": {
     "type": "git",
     "url": "https://github.com/null--/react-native-apk-installer.git"
